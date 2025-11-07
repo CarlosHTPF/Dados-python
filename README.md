@@ -4,3 +4,5 @@
 
 Projeto desenvolvito em python, com a bibliotec pandas, e matplotlib (imersão de dados Alura) com foco em desenvolver uma dashboard interativa...
 com foco em observar tabelas para machine learning.
+
+link de acesso : https://dados-python-consultas.streamlit.app/
